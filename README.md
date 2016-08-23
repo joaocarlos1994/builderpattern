@@ -6,3 +6,5 @@ O exemplo do livro é em c++, atrvés desse exemplo criei um exemplo na linguage
 O desgin pattern builder realiza a contrução de objetos complexo. Para construção de objetos complexo é necessário uma abstração, onde
 as superclasse implemetam ou herdam esses métodos incomum para construção de objetos, colocando assim os builders concretos atrás de uma
 abstração.
+
+Obs.: Esse exemplo é fictício, então não retornar um instência de ASCIIText, somente um string dizendo a modificação.
