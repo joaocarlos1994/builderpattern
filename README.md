@@ -1,6 +1,6 @@
 # Builder Pattern
 
-Example by for book: Padrões de Projetos (Erich Gamma; Richard Helm; Ralph Johnson e John Vlissides)
+Example by: Padrões de Projetos (Erich Gamma; Richard Helm; Ralph Johnson e John Vlissides)
 O exemplo do livro é em c++, atrvés desse exemplo criei um exemplo na linguagem java.
 
 O desgin pattern builder realiza a contrução de objetos complexo. Para construção de objetos complexo é necessário uma abstração, onde
